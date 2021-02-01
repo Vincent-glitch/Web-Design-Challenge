@@ -1,6 +1,6 @@
 [Demo Link](https://vincent-glitch.github.io/Web-Design-Challenge/)
 
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design  - Web Visualization Dashboard (Latitude)
 
 ## Background
 
