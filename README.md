@@ -1,3 +1,5 @@
+Click the link to launch to site
+
 [Demo Link](https://vincent-glitch.github.io/Web-Design-Challenge/)
 
 ![Images/landingResize.png](Images/landingResize.png)
